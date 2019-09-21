@@ -14,7 +14,7 @@ planeteer_calls
 end
 
 def long_planeteer_call(array)# code an argument here
-  
+  array.any? 
 end
 
 def find_the_cheese# code an argument here
